@@ -1,0 +1,13 @@
+{
+    "name": "kibgim/referrals",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Kibgim\\Referrals\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.7"
+    }
+}
